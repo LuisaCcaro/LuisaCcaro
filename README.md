@@ -1,11 +1,13 @@
 
+<div align="center">
+<img src="pixelcut-export.jpeg" width=70% />
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=DEB153&width=370&height=100&lines=Hi+%2C+I'm+Luisa Caro+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
- </p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</div>
+
+
 
 ### About me
 - 🎈 I enjoy working in the backend because I want to provide a good user experience.
